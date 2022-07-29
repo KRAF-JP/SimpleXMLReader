@@ -69,7 +69,7 @@ class SimpleXMLReader extends XMLReader
      * Add node callback
      *
      * @param string $xpath
-     * @param callback $callback
+     * @param callable $callback
      * @param integer $nodeType
      * @return SimpleXMLReader
      * @throws Exception
