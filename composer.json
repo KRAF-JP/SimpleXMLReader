@@ -1,12 +1,12 @@
 {
-    "name": "dkrnl/simplexmlreader",
-    "description": "Wrapper XMLReader class, for simple SAX-reading(and simple XPath-queries) of huge(testing over 1G file) xml.",
+    "name": "krafjp/simplexmlreader",
+    "description": "Fork from dkrnl/simplexmlreader. Adjust php 8.1+. Wrapper XMLReader class, for simple SAX-reading(and simple XPath-queries) of huge(testing over 1G file) xml.",
     "keywords": ["XML", "XMLReader", "Iterator", "SimpleXML"],
-    "homepage": "https://github.com/dkrnl/SimpleXMLReader",
+    "homepage": "https://github.com/KRAF-JP/SimpleXMLReader",
     "authors": [
         {
-            "name": "dkrnl",
-            "homepage": "http://dpyatkov.ru/"
+            "name": "shinji.oda",
+            "homepage": "https://kraf.jp/"
         }
     ],
     "autoload": {
